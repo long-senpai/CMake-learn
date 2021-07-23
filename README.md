@@ -74,7 +74,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 >> cmake --build .
 ```
 
-# Adding a Library
+# Step2: Adding a Library
 
 ## Link
 
